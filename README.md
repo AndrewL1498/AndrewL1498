@@ -9,7 +9,7 @@
   - [Dog Adoption Platform](https://github.com/AndrewL1498/19.10-Dog-Adoption-Platform-Project)
   - [Space Travel Project](https://github.com/AndrewL1498/15.12-Space-Travel-Project)
   - [Star Destroyer Project](https://github.com/AndrewL1498/15.7-Star-Destroyer-Project)
-  - [Capstone Nutrition App(In Progress)](https://github.com/AndrewL1498/capstone-nutrition-app)
+  - [Capstone Nutrition App](https://github.com/AndrewL1498/capstone-nutrition-app)
 
 <h2>📺 Fitness Youtube Videos For Software Engineers</h2>
 
