@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andrew!<br><br>
   
-  I'm a software developer, audio engineer and fitness coach that specializes in helping men in the tech industry get in shape. 
+  I'm a software developer and fitness coach that specializes in helping men in the tech industry build an athletic physique. 
   
   Below you can find links to my projects as well as my youtube channel for fitness.</h1>
 
